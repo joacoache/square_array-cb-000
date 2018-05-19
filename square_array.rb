@@ -1,4 +1,4 @@
 def square_array(array)
   array.each do |a|
-    a ** a
+  new_array << a ** a
 end
